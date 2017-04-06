@@ -1,0 +1,20 @@
+{
+  "IMG": {
+    "load": "images/load.gif",
+    "btn_start": "images/btn_start.png",
+    "bg": "images/bg.jpg",
+    "pot1": "images/pot1.png",
+    "pot2": "images/pot2.png",
+    "stay": "images/stay.png",
+    "weizhu": "images/weizhu.png",
+    "replay": "images/replay.png",
+    "share": "images/shareBTN.png",
+    "victory": "images/victory.png",
+    "failed": "images/failed.png"
+  },
+  "AUDIO": {
+    "set": "images/set.wav",
+    "lose": "images/lose.wav",
+    "win": "images/win.wav"
+  }
+}

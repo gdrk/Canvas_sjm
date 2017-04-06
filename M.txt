@@ -1,0 +1,12 @@
+[
+[_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1)],
+[_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1)],
+[_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1)],
+[_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1)],
+[_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1)],
+[_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1)],
+[_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1)],
+[_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1)],
+[_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1),_.random(0,1)]
+]
+
